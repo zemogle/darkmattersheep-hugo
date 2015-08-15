@@ -1,0 +1,24 @@
++++
+date = "2010-01-31T09:05:36+01:00"
+draft = false
+title = "Gregynog Hall and students who don&#39;t like beer"
+
++++
+
+<p>I've spent this week living in a stately home. Its a stately home which is leased to University of Wales, is freezing cold, has terrible coffee, and smells slightly of dog, not wet dog just smelly dog. These things just add to the charm of the place. The house was given over to be used the&#160;<a href="/wiki/University_of_Wales" title="University of Wales">University of Wales</a> in 1963 by its owners,&#160;<a href="/wiki/Margaret_Davies" title="Margaret Davies">Margaret</a> and&#160;<a href="/wiki/Gwendoline_Davies" title="Gwendoline Davies">Gwendoline Davies</a>, the granddaughters of Victorian tycoon,&#160;<a href="/wiki/David_Davies_(industrialist)" title="David Davies (industrialist)">David Davies Llandinam</a>. It is stipulated in their wills that the house be used for educational purposes. The estate is still owned by the trust which the Davies sisters imparted the house to, and the University of Wales leases it, using it primarily as a conference centre.</p>
+
+<p>There are all sorts of strange ghosts of the house's previous existence&#160;subtly propping up dark corners.&#160;&#160;I spend about half an hour playing on a Steinway piano, which was remarkably well tuned, in a medium sized concert hall (which also contains a lesser make of piano and an organ that is badly in need for restoration. There is a<a href="http://www.gwylgregynogfestival.org/Gwyl_Gregynog_Festival.html"> Gregynog Festival of Music</a> and Poetry in June every year and has been carrying on since 1930's where big names in the English music scene were often present, such as Vaughan Williams, Elgar, Holst and Britten. This year I noticed that Emma Kirkby, Catrin Finch and the Tallis Scholars are among the headlining acts.<!--more--></p>
+
+<p>Its really quite amazing that this house still survives. The cost of running the place must be huge, which is clearly reflected in the decor which has remained unchanged for at least the past 12 years (when I first came here in 1997). Looking at the quality and style of the furnishings I suspect no serious effort has been put in here for over 30 years, unless the house manager bought really shabby curtains and rugs some time in the last decade. They are in a very difficult position because the building is listed, which prevents them from altering the look of the outside. However if they were to seriously modernize the building, putting in en-suite showers, radiators that were bigger than a football, and remove the smell for cabbages, they would also have to comply with disability building regulations. Things like installing a lift would be completely impossible.</p>
+
+<p>I was there this week to teach on a residential course for our 4th year<a href="http://www.astro.cf.ac.uk" target="_blank"> physics &amp; astronomy students</a>. They were joined by some students in a similar position from <a href="http://www.aber.ac.uk/en/" target="_blank">Abersytwyth</a>. Every year we take the students to Gregynog for a project management and funding application experience. This week we chose to get them to think abou<a href="http://telescoper.wordpress.com/2010/01/24/the-management/">t applying for money from STFC</a> to use some of the space telescopes and satellites in ESA's cosmic vision.</p>
+
+<p>They spend a week in small groups (with people they might not like), come up with an original idea, write a fully costed grant proposal for funds to study, present their proposal to a panel of their peers, and then judge which group should be funded and which should not.&#160;This out of everything that they study during their degree gives them possibly the most transferable skills, and real-life experience. Strangely some students thought that they should not be involved in this sort of play acting, because all they were interested in was studying science. As someone who has worked in both research and outreach, I know that these sorts of project management skills are very valuable in the real world, far more than any of the courses I did on solid state physics (which although interesting, I have never used again).</p>
+
+<p>The students all worked very hard and mostly took the exercise very seriously. The staff agreed on the outcome that the panel reached, and who was 'funded'. We mostly do, which shows that the students do a pretty good job of peer review. The think which I really cannot understand is how there was not more time spent in the bar! Previous years have sure that they worked hard and played hard too. Maybe this year the students just didn't really like beer.</p>
+
+<p>Here is a very short video I made showing what they thought about the food in Gregynog.</p>
+
+<p> </p>
+
+<p>Below is a charming film which I found on YouTube about someone's trip to Gregynog from Paris entirely on the train - how brave!</p>

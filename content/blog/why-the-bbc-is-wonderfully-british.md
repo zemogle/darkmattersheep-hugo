@@ -1,0 +1,24 @@
++++
+date = "2010-03-07T11:08:58+01:00"
+draft = false
+title = "Why the BBC is wonderfully British"
+
++++
+
+<p>In the last week the BBC have gone through an exercise in proving they are austere; on radio, 6 music and Asian Network have their heads on the blocks, on TV, purchases of foreign imports are going to be toned down (popular one with the home county conservatives), more wholesome documentaries and drama. I never listened to 6 Music (apart from Russel Howard and Jon Richardson's podcast, which does not include their musical selections) nor Asian Network, but lots of people have spoken out in support of the station and I agree with their sentiment. BBC has its charter because it can provide quality that will suit the minority and majority in different ways. The average listenership for Asian Network is higher &#160;(36,000) than Radio Five live sports extra (28,500). 6 music has a higher listenership (108,000) to Radio 7 (100,000) but is significantly more expensive since Radio 7 is primarily repeats of comedy and drama.<!--more--></p>
+
+<p>Independent television stations, because of their revenue source, have to appeal to a mainstream audience. The BBC however is more like the NHS, the license fee being more like a tax, and the wide variety of viewer/listener choice similar to a list of the county's ailments. I think this is a good thing, because it makes the BBC include everyone in their reach. I personally don't have anything against ITV and Five, but I almost never find myself watching them. The adverts are irritating, but&#160; the majority of the programmes are not what I consider entertaining. That aside the only programmes I can name (and have watched) on ITV in the last year are Poirot and Marple. These flagship dramas are high quality, and particularly in the case of Poirot represent a long term investment and not a hastily written script with actors of dubious ability and poor direction, (unlike Van Helsing, for example).</p>
+
+<p>Channel Four is in a different league to ITV and Five. It buys a lot of programmes from US, but still has a diverse arsenal of programming. Location<sup>3</sup>, How to look good naked and the comic genius of Father &#160;Ted and The IT Crowd. Sadly Channel Four is an exception, as has been proved with many years of less successful pay-per-view channels (such as the Sky platter of banality).</p>
+
+<p>In terms of radio broadcasts, BBC holds its own occupying the 4 of the top 5 slots in most listened to radio, with Radio 2 consistently occupying the top slot. This proves that the public are &#160;well represented. It is quite reassuring that we pay &#160;just shy of 140 pounds per year for a service which is not only incredibly high quality, but also appeals to the vast majority of the population. Admittedly many argue this is a luxury item which should not be hunted down like a tax, but it is a tax that is very cheap.</p>
+
+<p>The BBC costs just under 12 pounds per month, whereas Sky is over 30 - and you still have to put up with adverts.</p>
+
+<p>It seems there is periodically a cry from the public that BBC should be disbanded. Think very carefully about this. This would mean 'goodbye' to Top Gear, Eastenders, Match of the Day, The Archers, The Early Music show, Choral Evensong, The One Show, The Today Programme and gazillions of other excellent programmes. The BBC probably could survive on charging as much as Sky and being entirely voluntary. This would be a huge shame because radio would be the first thing t0 suffer, as adverts and product placements crept in.</p>
+
+<p>Spending about 2 months in the US each year, the television there is practically unwatchable because of the adverts. The creep has already started in UK as every 15-20 minutes a documentary will have a small summary for people who have joined the channel late. This and 45 minutes programmes (which translate to hour long slots in US) also makes it more &#160;marketable abroad.</p>
+
+<p>A principle concern the BBC trust is trying to address, with Rupert Murdoch's invisible hand of pressure, is the competitive market. This is where the evil in the woodshed is hiding. The BBC is the market leader in television, radio and its news website. Many other broadcast media complain the BBC has an unfair advantage. What utter rot! If the BBC did a less than excellent job, they might have a case that public money is being squandered. Really the argument just boils down to sour grapes.</p>
+
+<p>Be very careful if you would like to abolish BBC on entirely financial grounds, it is one of the things that 'makes Britain great'. Aunty knows where you live, and will send John Humphrys round.</p>

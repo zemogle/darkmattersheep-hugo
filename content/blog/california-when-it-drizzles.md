@@ -1,0 +1,20 @@
++++
+date = "2010-12-18T22:21:50+01:00"
+draft = false
+title = "California when it drizzles"
+
++++
+
+<p>I'm lucky enough to work not only with great people (puke, I know) but also in <a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Santa+Barbara,+CA&amp;sll=37.0625,-95.677068&amp;sspn=43.799322,71.191406&amp;ie=UTF8&amp;hq=&amp;hnear=Santa+Barbara,+California&amp;z=12">Santa Barbara, California</a>, for long periods of time. It is truly an amazing place. To a Brit it is a typically American place, yet spending considerable periods here you realize that it is atypical in many ways, and actually rather liberal in many ways. Not in a hippy free love liberal way (although you see a good deal of those sorts of people- filthy buggers), but in a very 'british' understated and thoughtful way (e.g. attitudes towards health care and sexual orientation are refreshingly similar to UK). Also the fact you can see celebrities walking up and down the high street (<a href="http://en.wikipedia.org/wiki/Eva_Longoria">Eva Longoria</a> doing a bit of shopping) or in the zoo (<a href="http://en.wikipedia.org/wiki/Josh_Holloway">Josh Holloway </a>and missus, remembering what he was up to when he was last in a cage) is such a novelty for those of us Brits who live outside London (I was lucky enough to bump into<a href="http://christopherleeweb.com/"> Sir Christopher Lee</a> in Cardiff once, mostly we just see <a href="http://www.bbc.co.uk/wales/radiowales/sites/presenters/pages/derek_brockway.shtml">Derek "off of the weather" Brockway</a> - ask <a href="http://haley.gomez.me.uk">Haley </a>for a funny story about him stropping into a live broadcast she was doing).</p>
+
+<p>Santa Barbara is a very relaxed city, and fortunately the people are not Stepford wife friendly. They share a bit too much, but this is still America, and as long as its not about bodily functions, I can cope.</p>
+
+<p>One of the strange things about the area is that many people are upper middle class. The houses are incredibly expensive to buy. This doesn't mean they're not worth it. In UK most people live in terraced houses. In Santa Barbara most houses are detached or a flat in a complex, and a million dollar house really is worth a million dollars by UK standards. There is just very little in the middle.</p>
+
+<p>This year we've been jammy enough to get two trips out here, and will be spending Christmas here. Naively we thought it would be sunny and possibly hot. We were feeling pretty smug until a few days ago, as UK was going from a picturesque snowy scene to 'Misery at airports as snow hits the getaway' (cf. Daily Mail - hate-filled, sensationalist dross that it is therefore no link). That was until a <a href="http://forecast.weather.gov/MapClick.php?zoneid=CAZ039">storm of tropical proportions hit the Santa Barbara coa</a>st. Fortunately we are British and never travel anywhere without an umbrella, sensible shoes and a foldable kagool.</p>
+
+<p>Its all jolly fun until the snow stops you from getting home. &#160;We are out here with <a href="http://www.strudel.org.uk/">Stuart</a> (colleague and friend) who was meant to be catching a flight tonight, but because of "Snowmageddon" is stranded with us (I bet the bookies in the UK are wishing they'd not put high stakes on it being a White Christmas this year).&#160;He's going to be in rainy Santa Barbara for at least another day and will be able to experience on of Southern California's most infamous cultural icons: The Breakfast Nazi, at the Franciscan Inn.</p>
+
+<p>What fun! More weather based non-sense to follow. In the meantime time here is a lovely Christmas tree, taken with my iPhone and some great <a href="http://itunes.apple.com/us/app/pro-hdr/id347104281?mt=8">High Dynamic Range software</a>.</p>
+
+<p><a href="http://darkmattersheep.net/media/2010/12/SBA_tree.jpg"><img alt="" class="aligncenter size-full wp-image-329" height="799" src="http://darkmattersheep.net/media/2010/12/SBA_tree.jpg" title="Goleta Christmas Tree" width="598" /></a></p>

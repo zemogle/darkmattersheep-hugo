@@ -1,0 +1,18 @@
++++
+date = "2011-07-22T05:29:12+01:00"
+draft = false
+title = "First aid and invasion of the autons"
+
++++
+
+<p>This week I thought "Why not do a first aid course?". The company offered us all a day out at the American Red Cross, to learn CPR (cardiopulmonary resuscitation), basic first aid, and some tips on when to use an AED (automated external defibrilator). It was rather a jolly day, despite being constantly reminded not only of our own mortality, but how 'dangerous' CPR could be. Dangerous to the first aider. We saw countless videos where we told to find an antibacterial gauze before you give someone the kiss of life.</p>
+
+<p>Did you know that the person next to you could have AIDS or hepatitis? Its a battle-ground, and you have to protect yourself. So keep your antibacterial gauze handy if you think you might need to snog someone back into the land of the living. Otherwise, you are in danger. Not 'at risk', actually 'in danger'. Just imagine what you could pick up on the bus or, worse yet, in a night club. Be careful when a cashier hands you your change in the supermarket. They might have just sneezed on your money. It turns your blood cold, doesn't it.</p>
+
+<p>We spent a good portion of the day role playing with these sleepy fellows. Be careful, I suspect they might be <a href="http://tardis.wikia.com/wiki/Auton">Autons</a>...<br /><p style="text-align: center;"><a href="http://darkmattersheep.net/media/2011/07/IMG_0686.jpg"><img alt="" class="aligncenter size-medium wp-image-506" src="http://darkmattersheep.net/media/2011/07/IMG_0686-300x186.jpg" title="Autons" width="450" /></a></p><br />Mine was really poorly. He experienced choking, difficulty breathing, a sudden cardiac arrest and a heart attack. Fortunately I am now trained. I tried a polo mint on him first. He didn't take to that so I whipped out the AED and zapped him. An AED, if you haven't had the pleasure, is rather like a <a href="http://en.wikipedia.org/wiki/Speak_%26_Spell_%28toy%29">Speak-and-spell</a> but with a cheeky little afterbite. Rather disturbingly, a disembodied voice tells you what to do at each step; where to put the pads, how long to wait, if there is a pulse, when its going to shock. The only thing it doesn't tell you is the cost, but who wants to know that when you're ill, you might have a heart attack.</p>
+
+<p>The depressing fact is that americans have to pay for every trip in an  ambulance - $3000 thank you very much. Republicans are perfectly comfortable with socialised  military, police, fireservice and ambulance service. But medicin? Hell no! those illegal immigrants and homosexuals will use my tax-dollars for treating their perverted diseases.</p>
+
+<p>Maybe I'm old  fashioned but I don't want even 30 seconds contemplation of whether I  can afford an ambulance trip and hospital stay, if my nearest and  dearest is involved in a serious accident. When you put a price tag on it, that is what happens. Its a very <a href="http://en.wikipedia.org/wiki/Thatcherism">Thatcherite</a> principle. If you can afford $1000+ per month, you get insurance. If you can't you, are treated like a second-class citizen, suffer poor health and end up with huge and unpayable debts.</p>
+
+<p>If you think that paying $100 for a prescription (as Haley recently paid for eye drops) which would be available over the counter at <a href="http://www.boots.co.uk">Boots the chemist</a>, in UK for &#163;7, you are stupid or corrupt. Socialized health care is a right not a luxury.</p>

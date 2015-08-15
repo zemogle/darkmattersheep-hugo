@@ -1,0 +1,20 @@
++++
+date = "2011-02-06T13:05:16+01:00"
+draft = false
+title = "A lapse in concentration"
+
++++
+
+<p>Recently I've become a little obsessed with making time-lapse videos. My modest equipment is an <a href="http://www.olympus.co.uk/consumer/dslr_digital_slr_e-420_18938.htm">Olympus e420</a> (which is a digital SLR camera - I've had an<a href="http://en.wikipedia.org/wiki/Olympus_OM_system"> Olympus OM10</a> since I was about 12 and loved it), a 25mm-50mm zoom lens, and a strange device called an intervalometer. This last esoteric piece of wizardry is the key behind doing time-lapse.</p>
+
+<p>Most cameras cannot be cajoled into taking sequences of exposures on their own, needing an external timer. I bought mine from ebay for about &#163;30 and it is unbranded (came from China), but if you want a branded version you can easily pay more than twice as much. You will often see it called "digital timer remote control" but I rather like the antiquated sounding name "intervalometer". Most models will also let you do really long exposures (several minutes). Be careful to buy the right one for your exact make and model of camera.</p>
+
+<p>You will also need some software which can take a sequence of images and make a video. On a Mac, QuickTime Pro does this really simply.</p>
+
+<p>Tips for making time-lapses:<br /><ol><br />	<li>Disable the flash. This is particularly important if you want your time-lapse to transition from day to night.</li><br />	<li>Set focus to manual. My camera has an autofocus mode, which does a stutter flash and in the night is highly ineffective for landscapes (and will even cease pictures being taken).</li><br />	<li>Make sure your set up is stable, out of the way of foot traffic, or be prepared to stand with it to guard against careless people knocking it.</li><br />	<li>Set the interval carefully. Having more shots is actually a good thing. In the UK broadcast quality is 25 frames per second. If you want people in your time-lapse having them appear multiple times is a good thing, instead of them popping in and out of existence.</li><br />	<li>Experiment. My first attempts weren't very good quality.</li><br /></ol><br />Here are some of my time-lapses which turned out rather nicely.</p>
+
+<p><a href="http://vimeo.com/19622510">Day to night at home</a> from <a href="http://vimeo.com/user4946262">Edward Gomez</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+
+<p><a href="http://vimeo.com/17930846">Back Parking Lot time-lapse</a> from <a href="http://vimeo.com/user4946262">Edward Gomez</a> on <a href="http://vimeo.com">Vimeo</a>. The growing <a href="http://lcogt.net">LCOGT</a> observatory in the car park of our Santa Barbara headquarters.</p>
+
+<p><a href="http://vimeo.com/16957077">Cardiff University Observatory at Sunset</a> from <a href="http://vimeo.com/user4946262">Edward Gomez</a> on <a href="http://vimeo.com">Vimeo</a>. On the roof of the <a href="http://www.astro.cf.ac.uk">School of Physics and Astronomy</a> in Cardiff.</p>
