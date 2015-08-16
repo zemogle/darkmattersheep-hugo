@@ -17,12 +17,12 @@ title = "Chaotic pendulous ball"
 
 <p>The mandatory pictures....I have no defense, but I was very drunk at the time. I was quite surprised how well Peter could dance. He could have been in Pan's People, if he wore lycra and had big hair.</p>
 
-<p><a href="http://darkmattersheep.net/media/2011/04/ball5.jpg"><img alt="" class="aligncenter size-full wp-image-465" height="600" src="http://darkmattersheep.net/media/2011/04/ball5.jpg" title="Peter Dancing" width="400" /></a></p>
+<p><a href="http://static.darkmattersheep.uk/2011/04/ball5.jpg"><img alt="" class="aligncenter size-full wp-image-465" height="600" src="http://static.darkmattersheep.uk/2011/04/ball5.jpg" title="Peter Dancing" width="400" /></a></p>
 
-<p><a href="http://darkmattersheep.net/media/2011/04/ball4.jpg"><img alt="" class="aligncenter size-full wp-image-464" height="600" src="http://darkmattersheep.net/media/2011/04/ball4.jpg" title="The engagement" width="400" /></a></p>
+<p><a href="http://static.darkmattersheep.uk/2011/04/ball4.jpg"><img alt="" class="aligncenter size-full wp-image-464" height="600" src="http://static.darkmattersheep.uk/2011/04/ball4.jpg" title="The engagement" width="400" /></a></p>
 
-<p><a href="http://darkmattersheep.net/media/2011/04/ball4.jpg"></a><a href="http://darkmattersheep.net/media/2011/04/ball3.jpg"><img alt="" class="aligncenter size-full wp-image-463" height="400" src="http://darkmattersheep.net/media/2011/04/ball3.jpg" title="ball3" width="600" /></a></p>
+<p><a href="http://static.darkmattersheep.uk/2011/04/ball4.jpg"></a><a href="http://static.darkmattersheep.uk/2011/04/ball3.jpg"><img alt="" class="aligncenter size-full wp-image-463" height="400" src="http://static.darkmattersheep.uk/2011/04/ball3.jpg" title="ball3" width="600" /></a></p>
 
-<p><a href="http://darkmattersheep.net/media/2011/04/ball2.jpg"><img alt="" class="aligncenter size-full wp-image-462" height="400" src="http://darkmattersheep.net/media/2011/04/ball2.jpg" title="Dance fever" width="600" /></a></p>
+<p><a href="http://static.darkmattersheep.uk/2011/04/ball2.jpg"><img alt="" class="aligncenter size-full wp-image-462" height="400" src="http://static.darkmattersheep.uk/2011/04/ball2.jpg" title="Dance fever" width="600" /></a></p>
 
-<p><a href="http://darkmattersheep.net/media/2011/04/ball1.jpg"><img alt="" class="aligncenter size-full wp-image-461" height="400" src="http://darkmattersheep.net/media/2011/04/ball1.jpg" title="Street Party?" width="600" /></a></p>
+<p><a href="http://static.darkmattersheep.uk/2011/04/ball1.jpg"><img alt="" class="aligncenter size-full wp-image-461" height="400" src="http://static.darkmattersheep.uk/2011/04/ball1.jpg" title="Street Party?" width="600" /></a></p>

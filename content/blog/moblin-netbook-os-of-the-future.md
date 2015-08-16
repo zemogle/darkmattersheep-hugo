@@ -15,7 +15,7 @@ title = "Moblin: Netbook OS of the future?"
 
 <p>Moblin is very different to Windoze or Mac OS X, which I think is a good thing. Netbooks are fun little things which you take with you when you don't want your normal heavy computer, to lug around</p>
 
-<p><a href="http://darkmattersheep.net/media/2010/01/moblin_v2_netbook_beta.jpg"><img alt="" class="alignnone size-medium wp-image-86" height="175" src="http://darkmattersheep.net/media/2010/01/moblin_v2_netbook_beta-300x175.jpg" title="Moblin screenshot" width="300" /></a></p>
+<p><a href="http://static.darkmattersheep.uk/2010/01/moblin_v2_netbook_beta.jpg"><img alt="" class="alignnone size-medium wp-image-86" height="175" src="http://static.darkmattersheep.uk/2010/01/moblin_v2_netbook_beta-300x175.jpg" title="Moblin screenshot" width="300" /></a></p>
 
 <p>It has a bar across the top of the screen which auto-hides where you access your 'zones'. These zones correspond to the different ways you might use your moblin netbook. There is one for 'People' which pools together all your instant message contacts onto one tab, one for internet, networks, battery, your status updates (at the moment these are limited to Twitter and instant message), your profile page and miscellaneous applications (which there is a separate application to help you download more, without any fuss and nonsense). Each zone zips up and down like a little roller blind.</p>
 

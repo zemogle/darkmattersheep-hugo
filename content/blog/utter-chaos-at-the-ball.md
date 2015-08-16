@@ -15,11 +15,11 @@ title = "Utter chaos at the Ball"
 
 <p>I took some pictures to give you a flavour of the night.</p>
 
-<p><a href="http://darkmattersheep.net/media/2010/04/DSCF1974.jpg"><img alt="" class="alignnone size-large wp-image-175" src="http://darkmattersheep.net/media/2010/04/DSCF1974-1024x682.jpg" title="Dr Patrick Sutton" width="512" /></a></p>
+<p><a href="http://static.darkmattersheep.uk/2010/04/DSCF1974.jpg"><img alt="" class="alignnone size-large wp-image-175" src="http://static.darkmattersheep.uk/2010/04/DSCF1974-1024x682.jpg" title="Dr Patrick Sutton" width="512" /></a></p>
 
 <p>Interloping Canadians stealing professorial ice-cream. Well, fucj you!</p>
 
-<p><a href="http://darkmattersheep.net/media/2010/04/DSCF1977.jpg"><img alt="" class="alignnone size-large wp-image-176" src="http://darkmattersheep.net/media/2010/04/DSCF1977-1024x682.jpg" title="Cheeky" width="512" /></a></p>
+<p><a href="http://static.darkmattersheep.uk/2010/04/DSCF1977.jpg"><img alt="" class="alignnone size-large wp-image-176" src="http://static.darkmattersheep.uk/2010/04/DSCF1977-1024x682.jpg" title="Cheeky" width="512" /></a></p>
 
 <p>A cheeky photo of me and a professor. Neither of us looking our best, but at least I had tied my own bow tie. Soon after that photo, several people felt my bum, for which I think there should have been substantial remuneration.</p>
 

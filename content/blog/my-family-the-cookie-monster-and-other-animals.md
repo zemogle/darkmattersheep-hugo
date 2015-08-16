@@ -23,4 +23,4 @@ title = "My family, the Cookie Monster and other animals"
 
 <p>Here is the mandatory family photo in front of the tree - just to prove how sane we are:</p>
 
-<p><a href="http://darkmattersheep.net/media/2011/02/silly_family.jpg"><img alt="" class="aligncenter size-full wp-image-392" height="640" src="http://darkmattersheep.net/media/2011/02/silly_family.jpg" title="Silly family" width="480" /></a><br /><p style="text-align: center;"></p></p>
+<p><a href="http://static.darkmattersheep.uk/2011/02/silly_family.jpg"><img alt="" class="aligncenter size-full wp-image-392" height="640" src="http://static.darkmattersheep.uk/2011/02/silly_family.jpg" title="Silly family" width="480" /></a><br /><p style="text-align: center;"></p></p>

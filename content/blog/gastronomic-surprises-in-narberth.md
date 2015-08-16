@@ -7,7 +7,7 @@ title = "Gastronomic surprises in Narberth"
 
 <p>We've just recently been on a holiday, and like so much of my childhood, we went to West Wales, where we came across the little town of Narberth. You may have heard of it, but probably never been there. Its not really on the way anywhere apart from <a href="http://www.oakwoodthemepark.co.uk/home/default.asp">Oakwood park</a> (it calls itself a theme park, but I don't see what the theme is). Pleasantly the high street only contains branches of chain shops, but since they are <a href="http://www.co-operative.coop/pharmacy/">Cooperative Pharmacy</a> and a <a href="http://www.spar.co.uk/">Spar</a>.</p>
 
-<p><a href="http://darkmattersheep.net/media/2010/04/Narberth.jpg"><img alt="" class="alignnone size-full wp-image-164" height="450" src="http://darkmattersheep.net/media/2010/04/Narberth.jpg" title="Narberth" width="600" /></a></p>
+<p><a href="http://static.darkmattersheep.uk/2010/04/Narberth.jpg"><img alt="" class="alignnone size-full wp-image-164" height="450" src="http://static.darkmattersheep.uk/2010/04/Narberth.jpg" title="Narberth" width="600" /></a></p>
 
 <p>In many respects Narberth would be more at home in the English countryside than the Welsh. There are very few welsh speakers in the shops or high streets and the majority of accents are middle-class english. I overheard one middle-aged, horsey sounding lady answer her phone (rather loudly and enthusiastically) "Hello darling, would you believe - I'm in Wales - haw haw". Recently retired people were being bused in to the town centre which, for a town with not an over abundance of amenities, I found a little strange. There are 6 tea shops on the high street and environs, so that is probably the answer.</p>
 

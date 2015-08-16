@@ -15,11 +15,11 @@ title = "Goodbye Bute Park, hello Howells Highway"
 
 <p>Below is a picture of Bute park with current road (building in progress) marked in blue (by me, rather sloppily, sorry)</p>
 
-<p><a href="http://darkmattersheep.net/media/2010/01/butepark-now.jpg"><img alt="" class="alignnone size-full wp-image-98" height="675" src="http://darkmattersheep.net/media/2010/01/butepark-now.jpg" title="Bute Park with silly road" width="746" /></a></p>
+<p><a href="http://static.darkmattersheep.uk/2010/01/butepark-now.jpg"><img alt="" class="alignnone size-full wp-image-98" height="675" src="http://static.darkmattersheep.uk/2010/01/butepark-now.jpg" title="Bute Park with silly road" width="746" /></a></p>
 
 <p>This next picture is what may have been going through the minds of the councillors in charge of Culture, Leisure and Parks (with Mr Howells is the execute member, what a lot of paperclips he must shuffle).</p>
 
-<p><a href="http://darkmattersheep.net/media/2010/01/butepark-future.jpg"><img alt="" class="alignnone size-full wp-image-99" height="675" src="http://darkmattersheep.net/media/2010/01/butepark-future.jpg" title="Bute park with a disgusting road" width="746" /></a></p>
+<p><a href="http://static.darkmattersheep.uk/2010/01/butepark-future.jpg"><img alt="" class="alignnone size-full wp-image-99" height="675" src="http://static.darkmattersheep.uk/2010/01/butepark-future.jpg" title="Bute park with a disgusting road" width="746" /></a></p>
 
 <p>Now, wouldn't that road be handy for cross town traffic. Largest uninterupted park in northern Europe, lets see about that. Welcome to the Howells Highway, transporting you from Corbett Rd to Sophia Close in under 2 minutes; wave at the daffodils from the comfort of your air-conditioned multi-purpose vehicle.</p>
 

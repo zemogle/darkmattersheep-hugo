@@ -1,7 +1,7 @@
 +++
 date = "2010-01-31T09:05:36+01:00"
 draft = false
-title = "Gregynog Hall and students who don&#39;t like beer"
+title = "Gregynog Hall and students who don't like beer"
 
 +++
 

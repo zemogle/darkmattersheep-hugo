@@ -9,7 +9,7 @@ title = "Cardiff Bay cycle route"
 
 <p>A few years ago I signed a petition for <a href="http://www.sustrans.org.uk/">Sustrans</a> (short for Sustainable Transport - a great organization that promotes the use of bikes) to get a bundle of lottery money to extend some cycle routes. I remember one of them was a bridge over the river Ely (a small less popular river which along with the Taff, feed Cardiff Bay and the Severn Estuary). It looks like after all this time the bridge is complete and last Sunday we thought we'd have a cycle across it from Cardiff to Penarth and back over the <a href="http://www.cardiffharbour.co.uk/harbour/barrage/barrage.html">Cardiff Bay barrage</a> into the Bay proper.</p>
 
-<p><img alt="" class="aligncenter size-full wp-image-271" height="639" src="http://darkmattersheep.net/media/2010/08/Baycycleroute.jpg" title="Cycle route around Cardiff Bay" width="829" /></p>
+<p><img alt="" class="aligncenter size-full wp-image-271" height="639" src="http://static.darkmattersheep.uk/2010/08/Baycycleroute.jpg" title="Cycle route around Cardiff Bay" width="829" /></p>
 
 <p>The image is kindly provided by <a href="http://www.opencyclemap.org/">Open Cycle Map</a> (if you want to find a cycle route anywhere in Europe, this is your first port of call - it is truly amazing!). I've added a blue dashed line to extend the other cycle paths (grey dashed).</p>
 

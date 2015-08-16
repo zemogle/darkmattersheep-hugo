@@ -25,4 +25,4 @@ title = "The Double Decker effect"
 
 <p>You have been warned.</p>
 
-<p><a href="http://darkmattersheep.net/media/2012/09/IMG_1013.jpg"><img alt="" class="aligncenter size-large wp-image-678" height="446" src="http://darkmattersheep.net/media/2012/09/IMG_1013-1024x768.jpg" title="Saucy minx" width="595" /></a></p>
+<p><a href="http://static.darkmattersheep.uk/2012/09/IMG_1013.jpg"><img alt="" class="aligncenter size-large wp-image-678" height="446" src="http://static.darkmattersheep.uk/2012/09/IMG_1013-1024x768.jpg" title="Saucy minx" width="595" /></a></p>

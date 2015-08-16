@@ -9,7 +9,7 @@ title = "Free parking for Torchwood"
 
 <p>On my way to the post office / corner shop, I was faced with a wall of traffic wardens marching down the pavement. There were two of them. They had that strange body shape, haircut, accent and swagger which made me unsure which gender they were - one of each, or perhaps two of both? They were about they usual business of slapping love letters on strangers minor indescretions, when they happened on a large black van. The van was clearly on double yellows - all of it, not one wheel, not the overhanging bumper, the whole kit caboodle and more.</p>
 
-<p><img alt="DSC00091" class="alignleft size-medium wp-image-29" src="http://darkmattersheep.net/media/2010/01/DSC00091-225x300.jpg" title="DSC00091" />In the windows of the van there was a sign that read 'Torchwood - cast and crew'. One of the androgenous (Andy, lets call he/she) traffic wardens struck up a conversation to the other hermaphroditic (Hermi, for the sake of clarity) traffic warden. I am fluent in the local dialect and will translate for you:</p>
+<p><img alt="DSC00091" class="alignleft size-medium wp-image-29" src="http://static.darkmattersheep.uk/2010/01/DSC00091-225x300.jpg" title="DSC00091" />In the windows of the van there was a sign that read 'Torchwood - cast and crew'. One of the androgenous (Andy, lets call he/she) traffic wardens struck up a conversation to the other hermaphroditic (Hermi, for the sake of clarity) traffic warden. I am fluent in the local dialect and will translate for you:</p>
 
 <p>Andy: (Points at van) Do you suppose the fine ladies and gentlemen of Torchwood are still working hard to save our streets from malicious extraterrestrial adversaries?</p>
 

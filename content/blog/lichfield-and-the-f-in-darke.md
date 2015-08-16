@@ -5,9 +5,9 @@ title = "Lichfield and the F-in&#39; Darke"
 
 +++
 
-<p>Last weekend I spent a weekend camped out in Lichfield Cathedral, and I don't mean sleeping in the cathedral. I was part of a reunion choir, the St Teilo's singers. We've sung together for the past 15 years, taking our name from the church we were originally based at, St Andrew and St Teilo's, closely associated with the Cardiff University Anglican Chaplaincy.<!--more--></p>
+Last weekend I spent a weekend camped out in Lichfield Cathedral, and I don't mean sleeping in the cathedral. I was part of a reunion choir, the St Teilo's singers. We've sung together for the past 15 years, taking our name from the church we were originally based at, St Andrew and St Teilo's, closely associated with the Cardiff University Anglican Chaplaincy.
 
-<p>[simage=23,200,n,left,]I've written before about <a href="/2010/01/the-philosophy-of-singing/">my feelings on choral singing</a>, but this weekend reminded my of how different it is almost any other sort of choir I've been in and how much I love it.</p>
+I've written before about [my feelings on choral singing](http://darkmattersheep.uk/blog/the-philosophy-of-singing/), but this weekend reminded my of how different it is almost any other sort of choir I've been in and how much I love it.
 
 <p>The members of St Teilo's singers are spread out around the country, so we only rehearse at the start of the weekend. During the course of the weekend we sing for 3 services at a cathedral, drink rather a lot by way of celebration, and have a jolly time. Saturday Evensong, Sunday Eucharist, Sunday Evensong. Its actually rather a lot of music, similar to doing 3 x 20 minute concerts from scratch.</p>
 
@@ -18,8 +18,6 @@ title = "Lichfield and the F-in&#39; Darke"
 <p>One of the settings we performed this weekend was Harold Darke's mass in E major. The organ was slightly sharp so it was more like F major, leading to the age old chorister joke of "Darke in F" or "F-in Darke". I can tell you, we've sung plenty of Scheidt in our time!</p>
 
 <p>Singing in some of the most sumptuous acoustics, beautiful buildings in the land, then getting delightfully tipsy on gin afterwards is truly wonderful.<br /><h2>St Teilo's singers</h2><br />Clearly a group I've sung with for 15 years must be pretty special. Sometimes it feels more special needs. One constant factor is our conductor, <a href="http://www.christophermaxim.co.uk/">Dr Christopher Maxim</a> who I have known since he was a PhD student and I was an undergraduate. &#160;It is simple to see that the reason there is a large core membership who turn out year after year because of his demand for high quality and a genuine enjoyment for the challenging music we sing.</p>
-
-<p>[simage=26,max,n,center,]</p>
 
 <p>Anyone who knows me, knows how much I detest team sports. The only redeeming part of them is the selfless 'team' aspect. Some of my best friendships have been born out from years of being in a different sort of team, where everyone has to support each other and keep the music sounding heavenly.</p>
 
