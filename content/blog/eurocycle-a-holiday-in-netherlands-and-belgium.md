@@ -88,5 +88,5 @@ for a pop over the bridge to Temse and back to:
 <i class="fa fa-train"></i>&nbsp;Bruges to Brussels  
 <i class="fa fa-train"></i>&nbsp;Brussels to London St Pancras  
 <i class="fa fa-bicycle"></i>&nbsp;London St Pancras to London Paddington  
-<i class="fa fa-train"></i>&nbsp;London Paddington to Cardiff Central
-<i class="fa fa-bicycle"></i>&nbsp;Cardiff Central to our little house
+<i class="fa fa-train"></i>&nbsp;London Paddington to Cardiff Central  
+<i class="fa fa-bicycle"></i>&nbsp;Cardiff Central to our little house  
