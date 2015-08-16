@@ -1,7 +1,7 @@
 +++
 date = "2010-09-02T20:04:09+01:00"
 draft = false
-title = "Lichfield and the F-in&#39; Darke"
+title = "Lichfield and the F-in' Darke"
 
 +++
 

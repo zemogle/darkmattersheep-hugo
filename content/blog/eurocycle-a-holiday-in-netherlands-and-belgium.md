@@ -18,7 +18,7 @@ The alternative is to carry everything with you. It was amazing how much you don
 * Sturdy pannier bags - we bought the Brompton own brand ones with bracket. It was incredible how much weight they can take, thanks to the excellent design. Much better to push it than carry it.
 * GPS - We bought the iPhone app <a href="http://trails.lamouroux.de/">Trails</a>. It will cache maps (from <a href="http://opencyclemap.org/">OpenCycle map</a>) so you don't need to have a working cellular data network available. We would been lost without it. Literally lost. It has loads of great features e.g. recording your route.
 
-### Day 1:
+## Day 1:
 <i class="fa fa-bicycle"></i>&nbsp; Cycle from our house to Cardiff Central station   
 <i class="fa fa-train"></i>&nbsp; Cardiff Central to London Paddington  
 <i class="fa fa-bicycle"></i>&nbsp; London Paddington - London St Pancras  
@@ -35,12 +35,12 @@ The cycle through London we suspected would be the most stressful part of the jo
 
 ## Day 2:
 <i class="fa fa-bicycle"></i>&nbsp; Amsterdam to Leiden
-  
+
 Leaving Amsterdam in a southern direction you should look out for the combined LF2/LF7 route. At waymarker 62 these two routes separate. We went South West on LF2 toward waymarker 68 - 01 - 39. We carried on following the LF2 until point 05, where we headed towards Leiden 05 - 73 - 74 - 70. Its a beautiful cycle mostly along canals with lots of windmills. Very friendly dutch, lycra-clad giants offered help to a lost looking welshman and his wife.
 
 <p>We had actually bought a map but because the first part wasn't on it we were totally unprepared for how long it would take and arrived just after dark. I <strong>would not</strong> recommend cycling these routes in the dark because they are mostly unlit and some of the paths are veeeeery narrow, alongside canals.<br /><a href="http://static.darkmattersheep.uk/2012/03/Amsterdam-leiden.png"><img alt="" class="aligncenter size-medium wp-image-602" height="203" src="http://static.darkmattersheep.uk/2012/03/Amsterdam-leiden-300x203.png" title="Amsterdam leiden journey from OpenCycleMap.org" width="300" /></a></p>
 
-<p>We were staying with a friend in Leiden who welcomed us into the house, exhausted, slightly smelly, and in desparate need of a strong cuppa and sit down. She then made us cycle across the city to a restaurant. I very nearly dozed off in my soup. Fortunately, nobody noticed. You can read all about the journey from <a href="http://darkmattersheep.net/2010/08/eurocycle-2-amsterdam-to-leiden/">the blog I did at the time</a>.<br /></p>
+<p>We were staying with a friend in Leiden who welcomed us into the house, exhausted, slightly smelly, and in desparate need of a strong cuppa and sit down. She then made us cycle across the city to a restaurant. I very nearly dozed off in my soup. Fortunately, nobody noticed. You can read all about the journey from <a href="/blog/eurocycle-2-amsterdam-to-leiden/">the blog I did at the time</a>.<br /></p>
 
 ## Day 3.
 <i class="fa fa-bicycle"></i>&nbsp; Leiden to The Hague  
@@ -55,13 +55,13 @@ If you have a GPS machine or a GPS smart phone app (like the rather good Trails)
 
 <p>The cycle to Rotterdam was less pleasant because we were rather tired, hot and my knee was playing up. We may also have gone the wrong way once or twice which is never good for morale. Our hotel was a corporate, businessman type of hotel with no soul and certainly no room service. Despite lots of pain in my knee, we hobbled off to find dinner in this industrial city. You have to look really hard for something nice, but eventually found a charming deli which turned into a restaurant at night.</p>
 
-### Day 4:
+## Day 4:
 
 <i class="fa fa-train"></i>&nbsp;Rotterdam (Netherlands) to Antwerp (Belgium)  
 
-The next day my leg was so bad we had to change our plans and catch the train all the way to Antwerp. There we had a marvelous time, staying in a gorgeous boutique hotel (<a href="http://www.hotel-julien.com/">Hotel Julien</a>) and catching up with the adventures of the <a href="http://darkmattersheep.net/2010/08/the-little-giant-and-diver-of-antwerp/">little giantess</a> (an annual city-wide artistic spectacular).
+The next day my leg was so bad we had to change our plans and catch the train all the way to Antwerp. There we had a marvelous time, staying in a gorgeous boutique hotel (<a href="http://www.hotel-julien.com/">Hotel Julien</a>) and catching up with the adventures of the <a href="/blog/the-little-giant-and-diver-of-antwerp/">little giantess</a> (an annual city-wide artistic spectacular).
 
-### Day 5:
+## Day 5:
 
 <i class="fa fa-bicycle"></i>&nbsp;Antwerp to Dendemonde  
 <i class="fa fa-train"></i>&nbsp;Dendemonde to Ghent
@@ -79,14 +79,12 @@ for a pop over the bridge to Temse and back to:
 
 <p>My knee was totally knackered by the time we got to Dendemonde so we elected to take the train the rest of the way to Ghent. Sadly Ghent was a bit of a let down after all the fun to be had in Antwerp. There were some pretty bits but most of the city seemed to be under heavy re-construction.</p>
 
-### Day 6:
+## Day 6:
 <i class="fa fa-bicycle"></i>&nbsp;Ghent to Bruges
 
-<p>You can download our route part of day 5 and all of day 6: <a href="http://gomez.me.uk/files/LF5-Temse-Bruges.gpx">Temse to Bruges for your GPS thingy (GPX format)</a>.</p>
+<p>You can download our route part of day 5 and all of day 6: <a href="http://static.darkmattersheep.uk//LF5-Temse-Bruges.gpx">Temse to Bruges for your GPS thingy (GPX format)</a>.</p>
 
-<p>...more coming</p>
-
-### Day 7:
+## Day 7:
 <i class="fa fa-train"></i>&nbsp;Bruges to Brussels  
 <i class="fa fa-train"></i>&nbsp;Brussels to London St Pancras  
 <i class="fa fa-bicycle"></i>&nbsp;London St Pancras to London Paddington  

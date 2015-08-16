@@ -85,7 +85,9 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   margin-top: 0;
   font-family: "VT323", serif;
-  font-size: 1.75rem;
+  font-size: 3.25rem;
+  text-align: center;
+  line-height: 3rem;
 }
 
 /* Sidebar nav */
@@ -106,7 +108,6 @@ a.sidebar-nav-item:focus {
 
 .sidebar-about img.site-logo{
   margin: 0 auto 1em;
-  max-width: 50%;
 }
 
 /* Sticky sidebar

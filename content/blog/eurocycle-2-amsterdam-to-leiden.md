@@ -35,4 +35,5 @@ title = "Eurocycle 2: Amsterdam to Leiden"
 
 <p>The end of day one. We really should have done more stretching before and after. And check that we knew how far we would be cycling.</p>
 
-<p><div style="border: 1px solid #a00; padding: 5px; width: 100%;">If you would like maps and directions for this journey, <a href="http://darkmattersheep.net/2012/04/eurocycle/">have a look at our general Eurocycle page</a>.</div></p>
+<i class="fa fa-bicycle fa-5"></i>   
+If you would like maps and directions for this journey, [have a look at our general Eurocycle page](/blog/eurocycle-a-holiday-in-netherlands-and-belgium/).

@@ -27,4 +27,7 @@ title = "Eurocycle 1: Cardiff to Amsterdam"
 
 <p>I' m not sure what I was expcecting if Amsterdam but there are canals and cyclists and rather s lot of both. Cyclists rule the city in a strange sort of anarchy: no road markings at junctions, ability to cycle against the flow of motorized traffic, competition with trams in some roads and only a bike bell saving them from serious maiming. </p>
 
-<p>More crazy amsterdam cycling tomorrow...<br /><div style="border: 1px solid #a00; padding: 5px; width: 100%;">If you would like maps and directions for this journey, <a href="http://darkmattersheep.net/2012/04/eurocycle/">have a look at our general Eurocycle page</a>.</div></p>
+More crazy amsterdam cycling tomorrow...
+
+<i class="fa fa-bicycle fa-5"></i>   
+If you would like maps and directions for this journey, [have a look at our general Eurocycle page](/blog/eurocycle-a-holiday-in-netherlands-and-belgium/).
