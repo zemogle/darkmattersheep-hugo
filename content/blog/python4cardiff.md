@@ -21,3 +21,4 @@ If you have a computer with python and ipython installed (and I recommend you us
 * [05. Astropy - Unit Conversion](http://www.zemogle.uk/nb/05. Astropy - Unit Conversion.html)
 * [06. APLpy and WCSAxes](http://www.zemogle.uk/nb/06. APLpy and WCSAxes.html)
 * [07. Astroquery](http://www.zemogle.uk/nb/07. Astroquery.html)
+* [Exercise Solutions](http://www.zemogle.uk/nb/Exercise Solutions.html) - Don't cheat ;)
