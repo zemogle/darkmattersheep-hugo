@@ -13,7 +13,7 @@ If you have a computer with python and ipython installed (and I recommend you us
 
 ## Notebook pages
 * [01. Data types and Collections](http://www.zemogle.uk/nb/01. Data types and Collections.html)
-* [02. Functions and Modules][http://www.zemogle.uk/nb/02. Functions and Modules.html]
+* [02. Functions and Modules](http://www.zemogle.uk/nb/02. Functions and Modules.html)
 * [03. Introduction to Numpy](http://www.zemogle.uk/nb/03. Introduction to Numpy.html)
 * [04. Introduction to Matplotlib](http://www.zemogle.uk/nb/04. Introduction to Matplotlib.html)
 * [05. Astropy - Handling FITS files](http://www.zemogle.uk/nb/05. Astropy - Handling FITS files.html)
