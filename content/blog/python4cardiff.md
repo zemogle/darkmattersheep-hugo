@@ -5,11 +5,12 @@ title = "Python in Astronomy"
 
 +++
 
-# STFC Python in Astronomy workshop
+These are the course notes for the Python in Astronomy workshop I ran in August 2015 for the [STFC Summer School in Astronomy](http://sites.cardiff.ac.uk/astronomy-summer-school/). The notebooks linked to here are static, fully expanded versions of the course IPython notebooks. They were intended as emergency measures, just in case.
 
-This page is an emergency measure in case the [SageMathCloud](http://cloud.sagemath.com) fails for any reason. The notebooks linked to here are static, fully expanded versions of the course IPython notebooks.
+If you have a computer with python and ipython installed (and I recommend you use the [Anaconda](https://store.continuum.io/cshop/anaconda/)), you can obtain the interactive IPython notebooks from my [GitHub repository](https://github.com/zemogle/python4cardiff/) and run them yourself. I would definitely recommend you do this, instead of looking at the static ones below because they are far more fun.
 
-If you have a computer with python and ipython installed (and I recommend you use the [Anaconda](https://store.continuum.io/cshop/anaconda/)), you can obtain the interactive IPython notebooks from my [GitHub repository](https://github.com/zemogle/python4cardiff/).
+#SageMath Cloud
+You can sign up for a free [SageMath Cloud](http://cloud.sagemath.com) and run the notebooks there if you don't have a version of python handy. We used this for the STFC workshop and it was quite effective.
 
 ## Notebook pages
 * [01. Data types and Collections](http://www.zemogle.uk/nb/01. Data types and Collections.html)
