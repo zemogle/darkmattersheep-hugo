@@ -25,10 +25,12 @@ title = "The Science of Doctor Who"
 
 Two of the important messages from my talk were; science is fun and anyone can do it (although it can be hard). Also that everyone should embrace their inner geek. No matter what other people say or think about you, its fine to be a geek, don&rsquo;t be ashamed of it.
 
-<p>It was particularly wonderful that loads of kids (surprisingly there were more girls than boys) wanted to talk to me afterwards, many of which just wanted to say &ldquo;Hello. I&rsquo;m a geek. Thanks!&rdquo;. One girl asked for my autograph (!) and said &ldquo;Thanks for your talk. By the way <a href="http://www.teddrewes.com/home/default.aspx">Ted Drewes</a> does the best ice cream in St Louis&rdquo;. She was right.</p>
-<p>There were some truly imaginative costumes, some of which were captured by the <a href="http://www.riverfronttimes.com/slideshow/doctor-who-fashion-at-the-saint-louis-science-center-41838087/">Riverfront Times</a>.</p>
+It was particularly wonderful that loads of kids (surprisingly there were more girls than boys) wanted to talk to me afterwards, many of which just wanted to say &ldquo;Hello. I&rsquo;m a geek. Thanks!&rdquo;. One girl asked for my autograph (!) and said &ldquo;Thanks for your talk. By the way [Ted Drewes](http://www.teddrewes.com/home/default.aspx) does the best ice cream in St Louis&rdquo;. She was right!
+
+There were some truly imaginative costumes, some of which were captured by the [Riverfront Times](http://www.riverfronttimes.com/slideshow/doctor-who-fashion-at-the-saint-louis-science-center-41838087/).
 
 Here's a great video montage from the night which will give you an impression of what it was like.
-<iframe src="https://player.vimeo.com/video/105439248" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/105439248">DOCTOR WHO First Friday, St. Louis Science Center</a> from <a href="https://vimeo.com/firstfridayflicks">F3-First Friday Flicks</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<iframe src="https://player.vimeo.com/video/105439248" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/105439248">Doctor Who First Friday, St. Louis Science Center</a> from <a href="https://vimeo.com/firstfridayflicks">F3-First Friday Flicks</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 A huge thanks to the friendly, welcoming St Louis Science Centre staff and particularly Jenny Heim (Director of strategic planning and projects) who looked after me like royalty all weekend and made my stay immensely enjoyable. I hope to come back one day!
