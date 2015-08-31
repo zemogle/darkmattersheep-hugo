@@ -11,10 +11,19 @@ title = "A lapse in concentration"
 
 <p>You will also need some software which can take a sequence of images and make a video. On a Mac, QuickTime Pro does this really simply.</p>
 
-<p>Tips for making time-lapses:<br /><ol><br />	<li>Disable the flash. This is particularly important if you want your time-lapse to transition from day to night.</li><br />	<li>Set focus to manual. My camera has an autofocus mode, which does a stutter flash and in the night is highly ineffective for landscapes (and will even cease pictures being taken).</li><br />	<li>Make sure your set up is stable, out of the way of foot traffic, or be prepared to stand with it to guard against careless people knocking it.</li><br />	<li>Set the interval carefully. Having more shots is actually a good thing. In the UK broadcast quality is 25 frames per second. If you want people in your time-lapse having them appear multiple times is a good thing, instead of them popping in and out of existence.</li><br />	<li>Experiment. My first attempts weren't very good quality.</li><br /></ol><br />Here are some of my time-lapses which turned out rather nicely.</p>
+Tips for making time-lapses:
+1. Disable the flash. This is particularly important if you want your time-lapse to transition from day to night.
+1. Set focus to manual. My camera has an autofocus mode, which does a stutter flash and in the night is highly ineffective for landscapes (and will even cease pictures being taken).
+1. Make sure your set up is stable, out of the way of foot traffic, or be prepared to stand with it to guard against careless people knocking it.
+1. Set the interval carefully. Having more shots is actually a good thing. In the UK broadcast quality is 25 frames per second. If you want people in your time-lapse having them appear multiple times is a good thing, instead of them popping in and out of existence.
+1. Experiment. My first attempts weren't very good quality.
 
-<p><a href="http://vimeo.com/19622510">Day to night at home</a> from <a href="http://vimeo.com/user4946262">Edward Gomez</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+Here are some of my time-lapses which turned out rather nicely.
 
-<p><a href="http://vimeo.com/17930846">Back Parking Lot time-lapse</a> from <a href="http://vimeo.com/user4946262">Edward Gomez</a> on <a href="http://vimeo.com">Vimeo</a>. The growing <a href="http://lcogt.net">LCOGT</a> observatory in the car park of our Santa Barbara headquarters.</p>
+<iframe src="https://player.vimeo.com/video/20783781" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/20783781">Make a model of Planck satellite</a> from <a href="https://vimeo.com/zemogle">Edward Gomez</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-<p><a href="http://vimeo.com/16957077">Cardiff University Observatory at Sunset</a> from <a href="http://vimeo.com/user4946262">Edward Gomez</a> on <a href="http://vimeo.com">Vimeo</a>. On the roof of the <a href="http://www.astro.cf.ac.uk">School of Physics and Astronomy</a> in Cardiff.</p>
+<iframe src="https://player.vimeo.com/video/19622510" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/19622510">Day to night at home</a> from <a href="https://vimeo.com/zemogle">Edward Gomez</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<iframe src="https://player.vimeo.com/video/17930846" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/17930846">Back Parking Lot time-lapse</a> from <a href="https://vimeo.com/zemogle">Edward Gomez</a> on <a href="https://vimeo.com">Vimeo</a>.</p> The growing <a href="http://lcogt.net">LCOGT</a> observatory in the car park of our Santa Barbara headquarters.</p>
+
+<iframe src="https://player.vimeo.com/video/16957077" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/16957077">Cardiff University Observatory at Sunset</a> from <a href="https://vimeo.com/zemogle">Edward Gomez</a> on <a href="https://vimeo.com">Vimeo</a>.</p> On the roof of the <a href="http://www.astro.cf.ac.uk">School of Physics and Astronomy</a> in Cardiff.</p>
