@@ -63,6 +63,7 @@ git add -A
 git commit -m "Fixed a bug in somefunction and added falangy feature"
 ```
 
+<<<<<<< HEAD
 ## Revert to previous version
 You've gone to all this effort to make your code to log all these different revisions, how do you revert to a previous edit. You might realise that your code is borked but it worked yesterday, or you might just want to look at the code you just committed before you changed it. As you would hope, its very easy.
 ```bash
@@ -78,6 +79,8 @@ git revert <alphanumeric code>
 ```
 This will roll back the code to that point.
 
+=======
+>>>>>>> 19dc6e1b37dcdb0030e14889830dbd785efd3405
 ## Putting it in the cloud
 If you want to share your project with people, or just have a cloud backup, I recommend using GitHub. GitHub have made a very good [step-by-step guide to making a repository on GitHub](https://help.github.com/articles/creating-a-new-repository/). Your repository will be made public by default. Normally you have to pay for private repositories, but if you are at a University you can get a load of [free, private repositories from GitHub](https://education.github.com/). Which is nice.
 
@@ -102,7 +105,7 @@ git push
 That saves revisions and then copies them to GitHub.
 
 ### GitHub App
-Although I've talked entirely about working on the command line here, I mostly use a free application, [GitHub Desktop](https://desktop.github.com/), developed by GitHub. It only works with GitHub repositories, but it is really nice. 
+Although I've talked entirely about working on the command line here, I mostly use a free application, [GitHub Desktop](https://desktop.github.com/), developed by GitHub. It only works with GitHub repositories, but it is really nice.
 
 ### The End?
 Thats a really, really quick getting started guide. I didn't mention:
