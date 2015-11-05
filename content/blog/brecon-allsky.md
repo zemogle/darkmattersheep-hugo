@@ -5,7 +5,7 @@ title = "Brecon Beacons Allsky Project"
 
 +++
 
-# Version 1
+# Version 1 - SBIG
 Back in 2012 I was sent an AllSky camera by [LCOGT](http://lcogt.net) (the observatory I work for). I was incredibly excited at the prospect of being  able to see stars above my house or even above Cardiff University. Cardiff has the worst light pollution in Wales. It is pretty shocking that for a nation which can boast 90% dark skies, in the capitol stargazing is virtually impossible.
 
 I hired a summer intern (through the Cardiff University Research Opportunities scheme) to write controller software for the camera ([SBIG 340](https://www.sbig.com/products/cameras/specialty/the-allsky-340-camera/) - which only comes with Windows software) so we could control it with a Raspberry Pi (find his code for [SBIG 340 cameras on GitHub](https://github.com/badders/pyallsky)). In the summer of 2013 we installed it next to the Cardiff University observatory, in the centre of Cardiff.
@@ -18,7 +18,7 @@ This was clearly unworkable so I approached the friendly people at Brecon Beacon
 
 That was the plan... It didn't quite work out because the SBIG 340 Allsky camera was terribly unreliable. It went back to the manufacturer (in California) because it broke. It eventually came back, it worked for a year, until the day I was installing it in Brecon. Then it broke again.
 
-# Version 2
+# Version 2 - Oculus
 I thought this project was dead and all the free coffee and cake the nice people at Brecon Beacons Mountain Centre had given me would have been in vane. Forutnately, Cardiff University Public Engagement team really liked the idea and gave me a small grant to buy a new camera. This time I was not going to buy the SBIG (which incidentally, costs ~$4000) but there were very few options. Eventually I found the [Oculus from Starlight Xpress](http://www.sxccd.com/oculus-all-sky-camera). Sadly I couldn't use my intern's code to control it on a Raspberry Pi.
 
 [INDI (Instrument Neutral Distributed Interface) project](http://indilib.org/) came to the rescue! I found a way to talk to the camera using INDI, through Python. I also wrote some code to take pictures during the night only, and make nicely scaled images. Its on [GitHub, so please fork me](https://github.com/zemogle/pyOculus)! And finally on 20 October 2015, the installed camera finally got its first image of stars.
