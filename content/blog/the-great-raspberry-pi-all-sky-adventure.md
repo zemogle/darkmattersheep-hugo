@@ -1,6 +1,6 @@
 +++
-date = "2015-10-25T19:43:34+01:00"
-draft = true
+date = "2015-11-14T14:48:00+07:00"
+draft = false
 title = "Raspberry Sky: All sky Raspberry Pi camera"
 
 +++
@@ -56,6 +56,12 @@ The read-out time on the camera module is quite long so the stars were in differ
 ISO is the 'speed' of the detect. In other words, how efficiently the light gets converted to an electrical signal. We're looking at really faint things, so we want this process to be as efficient as possible. The Raspberry Pi camera module advertises being able to get an ISO of 1600. I can't get more than 800 out of, so maybe it isn't available to the API.
 
 ## The Results
+
+![](http://static.darkmattersheep.uk/uploads/allsky_test2.png)
+
+My first light image taken from the garden (the clear skies of Santa Barbara not Cardiff). The white dots are highly likely to be hot pixels on the camera sensor. I'll need to remove these with the pipeline (probably with my friend Curtis' excellent [astroSCRAPPY](https://github.com/astropy/astroscrappy) package).
+
+There are several stars in the image, including what I think is Cassiopeia on the right. I'm quite pleased with this image, but it obviously needs more analysis.
 
 
 *You can find all my code in my [Raspberry Sky GitHub repository](https://github.com/zemogle/raspberrysky).*
