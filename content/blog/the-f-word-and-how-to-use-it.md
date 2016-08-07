@@ -1,7 +1,7 @@
 +++
 date = "2009-05-05T17:57:29+01:00"
 draft = false
-title = "The &quot;F&quot; word and how to use it"
+title = "The F-word and how to use it"
 
 +++
 

@@ -7,7 +7,7 @@ title = "git 4 Astronomers"
 
 ## Why use version control
 
-At the recent STFC summer school in Cardiff, I organized a python workshop. I encouraged all the attendees to use have a sensible way of keeping different versions of your code. Having used other methods, I particularly like Git. Having a backup of your code somewhere not on your computer is also a great idea. Instead of periodically copying your code somewhere manually, its a good be able to see all your revisions if you are away from your computer, or if (and it will happen) your computer dies at a critical moment.
+At the recent STFC summer school in Cardiff, I organized a python workshop. I encouraged all the attendees to use have a sensible way of keeping different versions of your code. Having used other methods, I particularly like Git. Having a backup of your code somewhere not on your computer is also a great idea. I highly recommend keeping your work in [GitHub](https://github.com). Instead of periodically copying your code somewhere manually, its a good be able to see all your revisions if you are away from your computer, or if (and it will happen) your computer dies at a critical moment.
 
 ## How to get Git
 
