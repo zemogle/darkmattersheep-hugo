@@ -11,9 +11,9 @@ So, I’ve made a big decision. I am not seeing paying to see a film in the cine
 
 The test has 3 levels:
 
-- The film must have a least 2 named female characters
+- The film must have at least 2 named female characters
 - 2 named female characters must have at least 1 conversation with each other.
-- At least 1 of these conversations must not be able a named male character
+- At least 1 of these conversations must not be about a named male character
 
 You would think that given 50% of humanity is female, this should be an easy criteria to fulfil.
 
@@ -44,7 +44,7 @@ I hate to tell you, Ghostbusters (1984) is **not** perfect.
 
 **Spoilers alert**
 
-I have been to see [Ghostbusters (2016)(http://www.imdb.com/title/tt1289401/?ref_=nv_sr_1) twice and loved it both times (one of those was in a drive-in - it was amazing!). It also is not perfect but has all the essence of the original. It passes the Kermode “6 laugh” test allowing to be genuinely called a comedy, especially on the second viewing, when I wasn’t worried about how good it would be. There are far too many cameos (the one by  Ozzy Osborne is frankly ridiculous and will age the film terribly).
+I have been to see [Ghostbusters (2016)](http://www.imdb.com/title/tt1289401/?ref_=nv_sr_1) twice and loved it both times (one of those was in a drive-in - it was amazing!). It also is not perfect but has all the essence of the original. It passes the Kermode “6 laugh” test allowing to be genuinely called a comedy, especially on the second viewing, when I wasn’t worried about how good it would be. There are far too many cameos (the one by  Ozzy Osborne is frankly ridiculous and will age the film terribly).
 
 Paul Feig included much of the original feel of the film.
 
