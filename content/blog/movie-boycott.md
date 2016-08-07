@@ -34,7 +34,7 @@ Currently this means not seeing the following films:
 
 ## The Tipping Point
 
-The tipping point for me was the new Ghostbusters film. The hatred poured onto the cast, director and studio, who had dared to cast 4 women as the eponymous heroes of the film, astounded me. There were over [40,000 disgustingly racist twitter comments directed at Leslie Jones](http://variety.com/2016/film/news/leslie-jones-ghostbusters-twitter-hate-1201816809/), which should be deemed racially incited hatred and investigate by police. The director and cast received death threats. Several people said this film [“destroyed their childhood”](http://www.cinemablend.com/new/What-Really-Going-With-Ghostbusters-Haters-According-Melissa-McCarthy-134087.html).
+The tipping point for me was the new Ghostbusters film. The hatred poured onto the cast, director and studio, who had dared to cast 4 women as the eponymous heroes of the film, astounded me. There were over [40,000 disgustingly racist twitter comments directed at Leslie Jones](http://variety.com/2016/film/news/leslie-jones-ghostbusters-twitter-hate-1201816809/), which should be deemed racially incited hatred and investigated by police. The director and cast received death threats. Several people said this film [“destroyed their childhood”](http://www.cinemablend.com/new/What-Really-Going-With-Ghostbusters-Haters-According-Melissa-McCarthy-134087.html).
 
 All of that is unacceptable.
 
@@ -44,7 +44,7 @@ I hate to tell you, Ghostbusters (1984) is **not** perfect.
 
 **Spoilers alert**
 
-I have been to see [Ghostbusters (2016)](http://www.imdb.com/title/tt1289401/?ref_=nv_sr_1) twice and loved it both times (one of those was in a drive-in - it was amazing!). It also is not perfect but has all the essence of the original. It passes the Kermode “6 laugh” test allowing to be genuinely called a comedy, especially on the second viewing, when I wasn’t worried about how good it would be. There are far too many cameos (the one by  Ozzy Osborne is frankly ridiculous and will age the film terribly).
+I have been to see [Ghostbusters (2016)](http://www.imdb.com/title/tt1289401/?ref_=nv_sr_1) twice and loved it both times (one of those was in a drive-in - it was amazing!). It also is not perfect but has all the essence of the original. It passes the Kermode “6 laugh” test allowing it to be genuinely called a comedy, especially on the second viewing, when I wasn’t worried about how good it would be. There are far too many cameos (the one by  Ozzy Osborne is frankly ridiculous and will age the film terribly).
 
 Paul Feig included much of the original feel of the film.
 
