@@ -4,7 +4,7 @@ draft = false
 title = "Coding at Camp Cosmos"
 +++
 
-During July 2016, we embarked on a new adventure for me personally and for Las Cumbres Observatory: [Camp Cosmos](http://lco.global/campcosmos/). 2 weeks of science activities for children between 7 and 12 years old.
+During July 2016, I embarked on a new adventure for me personally and for Las Cumbres Observatory: [Camp Cosmos](http://lco.global/campcosmos/). 2 weeks of science activities for children between 7 and 12 years old.
 
 I wanted to make a camp that the 10 year old version of me would be excited by and it seems having fun with science is something these kids embraced fully. As a kid I loved doing activity weeks (we didn’t call them camps in UK in 1980s) but there were never any science ones. [Chapter Arts Centre](http://chapter.org) was amazing at providing a variety of courses and loved all of them. I did clay modelling, puppet making, music (free style composition), drama, and some photography.
 
@@ -65,9 +65,11 @@ I settled on the [mBot kit from MakeBlock](http://makeblock.com/robot-kit-series
 
 ![Camper making the mBot and coding with Scratch](http://static.darkmattersheep.uk/campcosmos/DSC06503.JPG)
 
+As we were using Linux and the MakeBlock version of Scratch needs Adobe Air to run locally (not supported on Linux). I was a bit stumped. Until I found the excellent ScratchX website. An internet genius had ported most of the blocks needed for the [MakeBlock robotics blocks](http://scratchx.org/?url=http://mbotx.github.io/scratchx-mbot/project.sbx#scratch), which really saved the day.
+
 ### Complex concepts
 
-Even though Scratch is a simplified, visual language, with many helper functions/blocks, it still contains complex concepts. As an adult you probably take for granted 3 complex concepts:
+Even though Scratch is a simplified, visual language, with many helper functions/blocks, it still contains complex coding concepts. As an adult you probably take for granted these 3 complex concepts:
 
 - If…else
 - Logical operators (e.g. greater or less than)
@@ -75,7 +77,7 @@ Even though Scratch is a simplified, visual language, with many helper functions
 
 Every kid at Camp Cosmos was familiar with the essence of each of these but applying them to quantities or actions was quite abstract for them initially.
 
-Like with all complex concepts I got the kids to be involved in a demo:
+Like with all complex concepts I got the kids to be involved in some demos to help explain them:
 
 One kid was in an action in a **LOOP**. Each time they passed another kid, the logic gate they had a question to ask: can I walk straight on, or is the logic gate kid's hand **LESS THAN** my height. **IF** it is **THEN** reverse direction, otherwise or **ELSE** continue walking in a loop.
 
