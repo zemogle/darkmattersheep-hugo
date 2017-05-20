@@ -5,7 +5,7 @@ title = "Doctor Who Gender Breakdown"
 
 +++
 
-I'm a big [Doctor Who](http://www.bbc.co.uk/doctorwho/) fan. I have been since it had crappy effects but gripping stories, in the 1980's. I want to identify with the main character, The Doctor, and big factor in that is how he treats others. Various regenerations have been condescending or arrogant, but he is a fundamentally good person. I particularly like is how The Doctor  promotes solving problems and resolving conflicts non-violently, celebrates being clever (currently the real World seems to be doing the opposite).
+I'm a big [Doctor Who](http://www.bbc.co.uk/doctorwho/) fan. I have been since it had crappy effects but gripping stories, in the 1980's. I want to identify with the main character, The Doctor, and big factor in that is how he treats others. Various regenerations have been condescending or arrogant, but he is a fundamentally good person. I particularly like how The Doctor promotes solving problems and resolving conflicts, non-violently, is unafraid of being clever, and celebrates the things that makes people different (currently the real World seems to be doing the opposite).
 
 Since the current favourite for the new regeneration of The Doctor is female ([Phoebe Waller-Bridge](http://www.imdb.com/name/nm3564817/?ref_=nmmi_mi_nm)), I was interested to see how the show runners, script writers, and casting directors saw the [gender breakdown of the characters in Doctor Who](http://www.zemogle.uk/doctorwho/). So I went through the credits of each episode, identified each character and the actor who played them, and categorised their gender, as follows:
 
