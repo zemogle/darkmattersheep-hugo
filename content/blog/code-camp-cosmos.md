@@ -4,7 +4,7 @@ draft = false
 title = "Coding at Camp Cosmos"
 +++
 
-During July 2016, I embarked on a new adventure for me personally and for Las Cumbres Observatory: [Camp Cosmos](http://lco.global/campcosmos/). 2 weeks of science activities for children between 7 and 12 years old.
+during July 2016, I embarked on a new adventure for me personally and for Las Cumbres Observatory: [Camp Cosmos](http://lco.global/campcosmos/). 2 weeks of science activities for children between 7 and 12 years old.
 
 I wanted to make a camp that the 10 year old version of me would be excited by and it seems having fun with science is something these kids embraced fully. As a kid I loved doing activity weeks (we didn’t call them camps in UK in 1980s) but there were never any science ones. [Chapter Arts Centre](http://chapter.org) was amazing at providing a variety of courses and loved all of them. I did clay modelling, puppet making, music (free style composition), drama, and some photography.
 
