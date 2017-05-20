@@ -13,13 +13,15 @@ Since the current favourite for the new regeneration of The Doctor is female ([P
 - <span class="cell-F">Female: </span>Characters who are clearly female, e.g. Donna Noble, are referred to in the programme as 'she'. Robots which are intended to be female (e.g. the [Bad Wolf](http://www.zemogle.uk/doctorwho/#season1) characters Anne Droid, Davina droid are counted as female).
 - <span class="cell-O">Other/Diverse: </span>Characters who do not have a definite gender, e.g. Daleks, Judoon, and are referred to in the programme as 'it'. If a computer has a female voice is it still and 'it'. Also characters who transgender who would be referred to as 'they', e.g. Lady Cassandra O'Brian.&Delta;17.
 
+Have a look at the [Doctor Who Gender Breakdown](http://www.zemogle.uk/doctorwho/) for yourself. Here some of my thoughts.
+
 ## Initial thoughts
 - In no season does the percentage of female characters reach beyond 40%.
 - Every Russel T Davies season had better diversity than even the most diverse season of Steven Moffat's run (Season 6), which only has 2 episodes with more female than male characters (and only then if you count the 'interface' in _The Girl Who Waited_ as female).
 
 ## Russell T Davies years (2005-2008)
 - The only 2 episodes of Season 1 have either equal or predominantly female casts (_Father's Day_ and _Bad Wolf_). In _Bad Wolf_ if you discount robots, it is male dominated.
-- Season 2 has 2 episodes with predominantly female cast (_New Earth_ and _Love &amp; Monsters_) and 1 with equal numbers of male and female (_The Girl in the Fireplace_). 
+- Season 2 has 2 episodes with predominantly female cast (_New Earth_ and _Love &amp; Monsters_) and 1 with equal numbers of male and female (_The Girl in the Fireplace_).
 - Season 3 also has 2 predominantly female episodes (_Gridlock_ and _42_).
 - Season 4 is an extra long (19 episodes) containing 2 Christmas Specials, the David Tennent Specials and a mini-episode. It is also the most diverse season with 7 episodes that have more female cast members than male (_Partners in Crime_, _Turn Left_, _The Stolen Earth_, _Journey's End_, _The End of Time: Part 1 &amp; 2_ and _A Ghost Story for Christmas_).
 
@@ -33,6 +35,6 @@ Since the current favourite for the new regeneration of The Doctor is female ([P
 
 
 ## Summary
-Only 22 episodes had more female than male characters, with a further 5 having a balanced cast, out of a total of 142 episodes. 
+Only 22 episodes had more female than male characters, with a further 5 having a balanced cast, out of a total of 142 episodes.
 
 These figures although far from equal, are not the worst amongst sci-fi TV series and films. I had hoped that for a TV series which has endured so long and has so many progressive, diverse and inclusive story lines that this balance would be more equal. Maybe [Chris Chibnall](https://en.wikipedia.org/wiki/Chris_Chibnall) will redress this when he takes over from Steven Moffat in 2018.
