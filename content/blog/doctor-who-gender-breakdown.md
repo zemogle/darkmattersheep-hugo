@@ -7,13 +7,13 @@ title = "Doctor Who Gender Breakdown"
 
 I'm a big [Doctor Who](http://www.bbc.co.uk/doctorwho/) fan. I have been since it had crappy effects but gripping stories, in the 1980's. I want to identify with the main character, The Doctor, and big factor in that is how he treats others. Various regenerations have been condescending or arrogant, but he is a fundamentally good person. I particularly like how The Doctor promotes solving problems and resolving conflicts, non-violently, is unafraid of being clever, and celebrates the things that makes people different (currently the real World seems to be doing the opposite).
 
-Since the current favourite for the new regeneration of The Doctor is female ([Phoebe Waller-Bridge](http://www.imdb.com/name/nm3564817/?ref_=nmmi_mi_nm)), I was interested to see how the show runners, script writers, and casting directors saw the [gender breakdown of the characters in Doctor Who](http://www.zemogle.uk/doctorwho/). So I went through the credits of each episode, identified each character and the actor who played them, and categorised their gender, as follows:
+Since the next w regeneration of The Doctor is female ([Jodie Whittaker](https://en.wikipedia.org/wiki/Jodie_Whittaker)) and awesome, I was interested to see how the show runners, script writers, and casting directors saw the [gender breakdown of the characters in Doctor Who](http://darkmattersheep.uk/doctorwho/). So I went through the credits of each episode, identified each character and the actor who played them, and categorised their gender, as follows:
 
 - <span class="cell-M">Male: </span>Characters who are clearly male, e.g. The Doctor, are referred to in the programme as 'he'.
-- <span class="cell-F">Female: </span>Characters who are clearly female, e.g. Donna Noble, are referred to in the programme as 'she'. Robots which are intended to be female (e.g. the [Bad Wolf](http://www.zemogle.uk/doctorwho/#season1) characters Anne Droid, Davina droid are counted as female).
+- <span class="cell-F">Female: </span>Characters who are clearly female, e.g. Donna Noble, are referred to in the programme as 'she'. Robots which are intended to be female (e.g. the [Bad Wolf](http://darkmattersheep.uk/doctorwho/#season1) characters Anne Droid, Davina droid are counted as female).
 - <span class="cell-O">Other/Diverse: </span>Characters who do not have a definite gender, e.g. Daleks, Judoon, and are referred to in the programme as 'it'. If a computer has a female voice is it still and 'it'. Also characters who transgender who would be referred to as 'they', e.g. Lady Cassandra O'Brian.&Delta;17.
 
-Have a look at the [Doctor Who Gender Breakdown](http://www.zemogle.uk/doctorwho/) for yourself. Here some of my thoughts.
+Have a look at the [Doctor Who Gender Breakdown](http://darkmattersheep.uk/doctorwho/) for yourself. Here some of my thoughts.
 
 ## Initial thoughts
 - In no season does the percentage of female characters reach beyond 40%.
