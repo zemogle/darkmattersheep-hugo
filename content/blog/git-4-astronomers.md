@@ -101,12 +101,13 @@ git push
 ```
 That saves revisions and then copies them to GitHub.
 
-### GitHub App
-Although I've talked entirely about working on the command line here, I mostly use a free application, [GitHub Desktop](https://desktop.github.com/), developed by GitHub. It only works with GitHub repositories, but it is really nice.
-
 ### The End?
 Thats a really, really quick getting started guide. I didn't mention:
 
 * `git stash` - for temporarily storing edits while you `git pull` some changes
 * `git branch` - particularly useful if you want to try something out with your code, but want to be able to get back to the working version quickly (e.g. you want to run it in its previous working state)
 * `git merge` - Blend 2 branches together (e.g. you've just created and tested a new feature on a separate branch, and you're ready to incorporate it to the main code)
+
+### Cheatsheet
+
+This is a really nice [cheat sheet](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html) from Atlassin (who provide [BitBucket remote repository service](http://bitbucket.org))
