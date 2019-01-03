@@ -2,13 +2,12 @@ box: debian
 build:
   steps:
     - arjen/hugo-build:
-        version: 0.12
+        version: 0.15
         theme: hyde
-        flags: --disableSitemap=true
 deploy:
   steps:
     # Execute the s3sync deploy step, a step provided by wercker
-    - s3sync:
+    - socialschools/s3sync@2.1.0:
         key_id: $AWS_ACCESS_KEY_ID
         key_secret: $AWS_SECRET_ACCESS_KEY
         bucket_url: $AWS_BUCKET_URL
